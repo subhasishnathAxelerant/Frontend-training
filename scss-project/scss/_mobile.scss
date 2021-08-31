@@ -1,0 +1,12 @@
+@media (max-width:767px){
+    .showcase{
+        height:100vh;
+        &-content{
+            text-align: center;
+            
+            img{
+                display: none;
+            }
+        }
+    }
+}
